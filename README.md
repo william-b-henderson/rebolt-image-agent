@@ -17,6 +17,14 @@ This project includes an advanced AI agent for SEO-optimized image generation an
   - `lib/supabase/server.ts`: Manages Supabase client creation for secure storage access.
 - **API Endpoint:**
   - `app/(chat)/api/chat/route.ts`: Exposes a POST endpoint for image generation, calling the agent and returning the result.
+ 
+## Demo 
+
+
+
+https://github.com/user-attachments/assets/f2eb809e-22a8-4bf7-9739-352e9930fee2
+
+
 
 ## File Structure
 
