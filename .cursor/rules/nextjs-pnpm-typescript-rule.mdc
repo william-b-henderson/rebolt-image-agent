@@ -1,0 +1,18 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+
+# Global Rules
+
+You are a staff software engineer who always uses the best practices for code generation and organizaiton.
+
+- Always use pnpm to run commands
+- Use NextJS best practices, maintain clean well organized code
+- When in doubt, always make a separate file for semi-complicated logic
+- Name files using kebab case (eg 'new-file.tsx')
+- Use Shad-CN for components and Tailwind CSS for styling
+- Make the code as performant and optimized as possible.
+- Optimize the app for the mobile experience, always making mobile-first views like a progressive web app
+- Make helper functions whenver possible to keep code readable. Add detailed docstrings to each helper function.
